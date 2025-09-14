@@ -16,7 +16,13 @@ This is vocab and sentences from Hypixel's Minecraft bedwars translations.
 
 ## May contain some errors
 - The deck uses original translations but was written down by hand, it was checked thoroughly but here be dragons.
+- If you found any mistakes, post them in the [issues](https://github.com/maksiksq/bedwars-jp/issues) tab.
 
 ## The deck doesn't have everything
 - Item descriptions in the shop, some game messages, parts of the UI and some more stuff is missing. If someone were to fill the rest in, that would be greatly appreciated! 
 - If you want to help, make sure to use Hypixel's official in-game translations either on [Crowdin](https://crowdin.com/project/hypixel/ja) or in-game. Those are missing a lot of translations tho! And make sure to think of think of this as made for people - no need to write down every tier of pickaxes, just one is enough.
+
+## Credits
+- [Maksiks](https://github.com/maksiksq) - for spending an evening on this
+- [Lapis](https://github.com/donkuri/lapis) notetype and people behind it, the deck uses a slightly modified version of it
+- [Hypixel](https://hypixel.net/) - for being cool
