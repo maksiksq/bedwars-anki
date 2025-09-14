@@ -1,4 +1,4 @@
-# Bedwars anki 
+# Bedwars 日本語
 Minecraft Hypixel bedwars Japanese anki deck because why not
 
 <img width="714" height="320" alt="2025-09-14_15-15" src="https://github.com/user-attachments/assets/c80d9d0d-de58-4cce-9fda-a2bd6f6e3d48" />
