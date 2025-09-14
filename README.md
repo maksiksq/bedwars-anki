@@ -1,5 +1,5 @@
 # Bedwars 日本語
-Minecraft Hypixel bedwars Japanese anki deck because why not
+Minecraft Hypixel bedwars Japanese Anki deck because why not
 
 <img width="714" height="320" alt="2025-09-14_15-15" src="https://github.com/user-attachments/assets/c80d9d0d-de58-4cce-9fda-a2bd6f6e3d48" />
 <br>
@@ -20,7 +20,7 @@ This is vocab and sentences from Hypixel's Minecraft bedwars translations.
 
 ## The deck doesn't have everything
 - Item descriptions in the shop, some game messages, parts of the UI and some more stuff is missing. If someone were to fill the rest in, that would be greatly appreciated! 
-- If you want to help, make sure to use Hypixel's official in-game translations either on [Crowdin](https://crowdin.com/project/hypixel/ja) or in-game. Those are missing a lot of translations tho! And make sure to think of think of this as made for people - no need to write down every tier of pickaxes, just one is enough.
+- If you want to help, make sure to use Hypixel's official in-game translations either on [Crowdin](https://crowdin.com/project/hypixel/ja) or in-game. Those are missing a lot of translations tho! And make sure to think of this as made for people - no need to write down every tier of pickaxes, just one is enough.
 
 ## Credits
 - [Maksiks](https://github.com/maksiksq) - for spending an evening on this
