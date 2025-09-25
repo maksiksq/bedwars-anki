@@ -20,7 +20,7 @@ This is vocab and sentences from Hypixel's Minecraft bedwars translations.
 
 ## The deck doesn't have everything
 - Item descriptions in the shop, some game messages, parts of the UI and some more stuff is missing. If someone were to fill the rest in, that would be greatly appreciated! 
-- If you want to help, make sure to use Hypixel's official in-game translations either on [Crowdin](https://crowdin.com/project/hypixel/ja) or in-game. Those are missing a lot of translations tho! And make sure to think of this as made for people - no need to write down every tier of pickaxes, just one is enough.
+- If you want to help,create an [issue](https://github.com/maksiksq/bedwars-jp/issues) first! Make sure to use Hypixel's official in-game translations either on [Crowdin](https://crowdin.com/project/hypixel/ja) or in-game. Those are missing a lot of translations tho! 
 
 ## Credits
 - [Maksiks](https://github.com/maksiksq) - for spending an evening on this
