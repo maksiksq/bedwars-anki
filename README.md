@@ -7,7 +7,7 @@ Minecraft Hypixel bedwars Japanese Anki deck because why not
 This is vocab and sentences from Hypixel's Minecraft bedwars translations. 
 
 ## Where do I get the deck?
-- Either on [AnkiWeb](https://ankiweb.net/shared/info/627021481?cb=1757857041123) *(the deck may not yet be approved as of writing this)*.
+- Either on [AnkiWeb](https://ankiweb.net/shared/info/627021481?cb=1757857041123).
 - Or alternatively right here, in the [releases](https://github.com/maksiksq/bedwars-anki/releases) tab!
 
 ## What is this whole Anki thing?
